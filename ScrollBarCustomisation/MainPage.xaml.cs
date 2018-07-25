@@ -52,6 +52,8 @@ namespace ScrollBarCustomisation
             this.Items.Add("X");
             this.Items.Add("Y");
             this.Items.Add("Z");
+
+            //master
         }
 
         public List<string> Items = new List<string>();
